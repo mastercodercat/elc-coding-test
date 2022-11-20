@@ -1,0 +1,108 @@
+:::: Log File ::::
+[27/12/2021 -- 15:7]  Info task started
+[27/12/2021 -- 15:7]  Mustache Templates ran on the HTML files
+[27/12/2021 -- 15:7]  Scripts ran on main.js
+[27/12/2021 -- 15:7]  Sass ran on files
+[27/12/2021 -- 15:8]  Info task started
+[27/12/2021 -- 15:8]  Mustache Templates ran on the HTML files
+[27/12/2021 -- 15:8]  Scripts ran on main.js
+[27/12/2021 -- 15:8]  Sass ran on files
+[27/12/2021 -- 15:12]  Scripts ran on main.js
+[27/12/2021 -- 19:54]  Info task started
+[27/12/2021 -- 19:54]  Mustache Templates ran on the HTML files
+[27/12/2021 -- 19:54]  Scripts ran on main.js
+[27/12/2021 -- 19:55]  Sass ran on files
+[27/12/2021 -- 20:1]  Scripts ran on main.js
+[27/12/2021 -- 20:1]  Scripts ran on main.js
+[27/12/2021 -- 20:2]  Scripts ran on main.js
+[27/12/2021 -- 20:4]  Scripts ran on main.js
+[27/12/2021 -- 20:5]  Scripts ran on main.js
+[27/12/2021 -- 20:5]  Scripts ran on main.js
+[27/12/2021 -- 20:6]  Scripts ran on main.js
+[27/12/2021 -- 20:7]  Scripts ran on main.js
+[27/12/2021 -- 20:7]  Scripts ran on main.js
+[27/12/2021 -- 20:7]  Scripts ran on main.js
+[27/12/2021 -- 20:9]  Scripts ran on main.js
+[27/12/2021 -- 20:19]  Info task started
+[27/12/2021 -- 20:20]  Mustache Templates ran on the HTML files
+[27/12/2021 -- 20:20]  Scripts ran on main.js
+[27/12/2021 -- 20:20]  Sass ran on files
+[27/12/2021 -- 20:35]  restarted!
+[27/12/2021 -- 20:36]  restarted!
+[27/12/2021 -- 20:37]  Info task started
+[27/12/2021 -- 20:37]  Mustache Templates ran on the HTML files
+[27/12/2021 -- 20:37]  Scripts ran on main.js
+[27/12/2021 -- 20:37]  Sass ran on files
+[27/12/2021 -- 20:39]  Info task started
+[27/12/2021 -- 20:39]  Mustache Templates ran on the HTML files
+[27/12/2021 -- 20:39]  Scripts ran on main.js
+[27/12/2021 -- 20:39]  Sass ran on files
+[27/12/2021 -- 20:40]  Scripts ran on main.js
+[27/12/2021 -- 20:41]  Info task started
+[27/12/2021 -- 20:41]  Mustache Templates ran on the HTML files
+[27/12/2021 -- 20:41]  Scripts ran on main.js
+[27/12/2021 -- 20:41]  Sass ran on files
+[27/12/2021 -- 20:41]  Scripts ran on main.js
+[27/12/2021 -- 20:44]  Scripts ran on main.js
+[27/12/2021 -- 20:44]  Scripts ran on main.js
+[27/12/2021 -- 20:45]  Scripts ran on main.js
+[27/12/2021 -- 20:45]  restarted!
+[27/12/2021 -- 20:46]  restarted!
+[27/12/2021 -- 20:46]  restarted!
+[27/12/2021 -- 20:47]  Info task started
+[27/12/2021 -- 20:47]  Mustache Templates ran on the HTML files
+[27/12/2021 -- 20:47]  Scripts ran on main.js
+[27/12/2021 -- 20:47]  Sass ran on files
+[28/12/2021 -- 0:51]  Info task started
+[28/12/2021 -- 0:52]  Mustache Templates ran on the HTML files
+[28/12/2021 -- 0:52]  Scripts ran on main.js
+[28/12/2021 -- 0:52]  Sass ran on files
+[28/12/2021 -- 0:53]  restarted!
+[28/12/2021 -- 0:53]  restarted!
+[28/12/2021 -- 0:53]  restarted!
+[28/12/2021 -- 0:54]  restarted!
+[28/12/2021 -- 0:54]  restarted!
+[28/12/2021 -- 0:54]  restarted!
+[28/12/2021 -- 0:55]  Scripts ran on main.js
+[28/12/2021 -- 0:57]  Scripts ran on main.js
+[28/12/2021 -- 0:57]  Scripts ran on main.js
+[28/12/2021 -- 0:57]  Scripts ran on main.js
+[28/12/2021 -- 0:59]  Scripts ran on main.js
+[28/12/2021 -- 0:59]  Scripts ran on main.js
+[28/12/2021 -- 0:59]  Sass ran on files
+[28/12/2021 -- 0:59]  Sass ran on files
+[28/12/2021 -- 0:59]  Sass ran on files
+[28/12/2021 -- 0:59]  Sass ran on files
+[28/12/2021 -- 1:0]  Scripts ran on main.js
+[28/12/2021 -- 1:0]  Scripts ran on main.js
+[28/12/2021 -- 1:0]  Scripts ran on main.js
+[28/12/2021 -- 1:2]  Sass ran on files
+[28/12/2021 -- 1:2]  Sass ran on files
+[28/12/2021 -- 1:3]  Sass ran on files
+[28/12/2021 -- 1:4]  Sass ran on files
+[28/12/2021 -- 1:4]  Sass ran on files
+[28/12/2021 -- 1:4]  Scripts ran on main.js
+[28/12/2021 -- 1:5]  Sass ran on files
+[28/12/2021 -- 1:6]  Scripts ran on main.js
+[28/12/2021 -- 1:6]  Scripts ran on main.js
+[28/12/2021 -- 1:7]  Scripts ran on main.js
+[28/12/2021 -- 1:7]  Sass ran on files
+[28/12/2021 -- 1:9]  Scripts ran on main.js
+[28/12/2021 -- 1:9]  Scripts ran on main.js
+[28/12/2021 -- 1:10]  Sass ran on files
+[28/12/2021 -- 1:12]  Scripts ran on main.js
+[28/12/2021 -- 1:16]  Scripts ran on main.js
+[28/12/2021 -- 1:18]  Scripts ran on main.js
+[28/12/2021 -- 1:18]  Scripts ran on main.js
+[28/12/2021 -- 1:18]  Scripts ran on main.js
+[28/12/2021 -- 1:24]  Info task started
+[28/12/2021 -- 1:24]  Mustache Templates ran on the HTML files
+[28/12/2021 -- 1:24]  Scripts ran on main.js
+[28/12/2021 -- 1:25]  Sass ran on files
+[28/12/2021 -- 1:33]  Info task started
+[28/12/2021 -- 1:33]  Mustache Templates ran on the HTML files
+[28/12/2021 -- 1:33]  Scripts ran on main.js
+[28/12/2021 -- 1:33]  Sass ran on files
+[28/12/2021 -- 1:35]  Sass ran on files
+[28/12/2021 -- 1:36]  Sass ran on files
+[28/12/2021 -- 1:36]  Sass ran on files
